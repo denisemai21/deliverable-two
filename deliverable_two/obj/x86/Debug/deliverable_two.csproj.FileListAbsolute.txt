@@ -1,0 +1,6 @@
+/Users/denisemai/Projects/deliverable_two/deliverable_two/deliverable_two/bin/Debug/deliverable_two.exe
+/Users/denisemai/Projects/deliverable_two/deliverable_two/deliverable_two/bin/Debug/deliverable_two.pdb
+/Users/denisemai/Projects/deliverable_two/deliverable_two/deliverable_two/obj/x86/Debug/deliverable_two.csprojAssemblyReference.cache
+/Users/denisemai/Projects/deliverable_two/deliverable_two/deliverable_two/obj/x86/Debug/deliverable_two.csproj.CoreCompileInputs.cache
+/Users/denisemai/Projects/deliverable_two/deliverable_two/deliverable_two/obj/x86/Debug/deliverable_two.exe
+/Users/denisemai/Projects/deliverable_two/deliverable_two/deliverable_two/obj/x86/Debug/deliverable_two.pdb
